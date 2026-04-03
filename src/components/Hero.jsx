@@ -70,7 +70,7 @@ function Hero() {
           <div className="hero-pills">
             <div className="hero-pill hero-pill-1">
               <span className="pill-dot"></span>
-              MS CS @ UMass Amherst
+              MS CS @ UMass Amherst | GSG Computer Science Senator
             </div>
             <div className="hero-pill hero-pill-2">
               <span className="pill-dot pill-dot-orange"></span>

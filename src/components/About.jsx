@@ -9,8 +9,9 @@ function About() {
           <p className="section-kicker">About</p>
           <h2 className="section-title">Who I am</h2>
           <p className="section-subtitle">
-            A systems-minded engineer who turns complex ML and backend problems
-            into clean, safe, and scalable solutions.
+            An AI engineer grounded in 7+ years of production software engineering at
+            PayPal, Altimetrik, and Dell EMC, now building intelligent systems that
+            learn, adapt, and scale.
           </p>
         </div>
 
@@ -19,17 +20,28 @@ function About() {
             <div className="about-icon">
               <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg>
             </div>
-            <h3 className="about-heading">Background</h3>
+            <h3 className="about-heading">From Software Engineer to AI Engineer</h3>
             <p>
-              Pursuing an M.S. in Computer Science at UMass Amherst, focusing on
-              Machine Learning, Reinforcement Learning, Temporal Graphs, and
-              Responsible AI. Before grad school, I spent 7+ years in industry building
-              payment systems, risk & collections flows, and automation tooling at
-              PayPal, Altimetrik, and Dell EMC.
+              My journey into AI is built on a strong foundation of real-world
+              software engineering. Over 7+ years at <strong>PayPal</strong>,{" "}
+              <strong>Altimetrik</strong>, and <strong>Dell EMC</strong>, I designed
+              and shipped high-throughput payment pipelines serving 436M+ users,
+              built ML-integrated risk systems with 96% accuracy, and engineered
+              infrastructure automation that cut provisioning time by 92%.
             </p>
             <p>
-              I thrive on problems where reliability, performance, and safety all
-              matter at once.
+              That hands-on experience with distributed systems, concurrency, and
+              production reliability is what I now bring to the AI space. I understand
+              what it takes to move a model from research notebook to production service,
+              and I care deeply about building AI systems that are not just accurate but
+              also robust, scalable, and safe.
+            </p>
+            <p>
+              Currently pursuing my <strong>M.S. in Computer Science at UMass
+              Amherst (GPA 3.95)</strong>, I'm focused on Machine Learning,
+              Reinforcement Learning, LLMs, and Responsible AI. This summer, I join{" "}
+              <strong>Dell Technologies as a Graduate AI Intern</strong>, working on
+              next-generation AI-powered products.
             </p>
           </div>
 
@@ -37,7 +49,28 @@ function About() {
             <div className="about-icon">
               <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"></path><path d="M6 12v5c3 3 6 3 6 3s3 0 6-3v-5"></path></svg>
             </div>
-            <h3 className="about-heading">Education</h3>
+            <h3 className="about-heading">Why Reinforcement Learning</h3>
+            <p>
+              What drew me to Reinforcement Learning is the idea that an agent can
+              learn optimal behavior purely through interaction and feedback, no
+              labeled dataset needed. RL sits at the intersection of decision-making,
+              planning, and learning, and I find that deeply compelling.
+            </p>
+            <p>
+              At UMass, I've studied RL extensively, from foundational algorithms
+              like Q-learning and policy gradients to game-theoretic settings and
+              multi-agent environments. For my AI course, I built and benchmarked
+              multiple AI poker agents, including a Minimax + Alpha-Beta agent with
+              opponent profiling, exploring how strategic reasoning and adaptation
+              play out in imperfect-information games.
+            </p>
+            <p>
+              I'm particularly interested in how RL and LLMs intersect, whether
+              it's RLHF for aligning language models, reward modeling for safer AI,
+              or using RL to optimize real-world decision systems like
+              recommendation engines, autonomous agents, and adaptive data pipelines.
+            </p>
+            <h3 className="about-heading" style={{ marginTop: "1.2rem" }}>Education</h3>
             <ul className="timeline">
               {profile.education.map((edu, idx) => (
                 <li key={idx} className="timeline-item">
@@ -59,17 +92,31 @@ function About() {
             </div>
             <h3 className="about-heading">What excites me</h3>
             <ul className="chip-list">
-              <li className="chip">LLM Evaluation & Safety</li>
+              <li className="chip">Reinforcement Learning</li>
+              <li className="chip">LLM Alignment & Safety</li>
               <li className="chip">Temporal Graph Neural Networks</li>
+              <li className="chip">GenAI &amp; RAG Pipelines</li>
               <li className="chip">High-throughput Backend Systems</li>
               <li className="chip">ML Systems & Data Pipelines</li>
-              <li className="chip">Mentoring & Community</li>
               <li className="chip">AI for Healthcare</li>
+              <li className="chip">Mentoring & Community</li>
             </ul>
             <p>
-              Outside of work and research, I enjoy dance, badminton, and sharing
-              what I've learned with peers and younger students. I'm the first woman
-              in my family to pursue a master's degree.
+              I'm driven by the challenge of building AI that works reliably
+              in the real world, systems that combine the rigor of production
+              engineering with the intelligence of modern ML. Whether it's grounding
+              LLM outputs against SQL databases, training temporal graph models on
+              24M+ row datasets, or designing RL agents that adapt to opponents in
+              real time, I gravitate toward problems that demand both engineering
+              depth and research creativity.
+            </p>
+            <p>
+              Beyond tech, I serve as the <strong>CS Senator</strong> in UMass
+              Amherst's Graduate Student Government, where I successfully passed a
+              bill expanding TA/RA opportunities. I'm the first woman in my family
+              to pursue a master's degree, and I'm passionate about making CS more
+              accessible through mentoring and community building. Outside work, you'll
+              find me dancing, playing badminton, or swapping notes on ML papers.
             </p>
           </div>
         </div>
