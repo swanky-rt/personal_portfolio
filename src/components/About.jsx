@@ -9,7 +9,7 @@ function About() {
           <p className="section-kicker">About</p>
           <h2 className="section-title">Who I am</h2>
           <p className="section-subtitle">
-            An AI engineer grounded in 7+ years of production software engineering at
+            An AI engineer grounded in 7+ years of software development experience at
             PayPal, Altimetrik, and Dell EMC, now building intelligent systems that
             learn, adapt, and scale.
           </p>
@@ -23,7 +23,7 @@ function About() {
             <h3 className="about-heading">From Software Engineer to AI Engineer</h3>
             <p>
               My journey into AI is built on a strong foundation of real-world
-              software engineering. Over 7+ years at <strong>PayPal</strong>,{" "}
+              software engineering. Over 7 years at <strong>PayPal</strong>,{" "}
               <strong>Altimetrik</strong>, and <strong>Dell EMC</strong>, I designed
               and shipped high-throughput payment pipelines serving 436M+ users,
               built ML-integrated risk systems with 96% accuracy, and engineered
