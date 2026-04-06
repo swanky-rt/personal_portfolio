@@ -65,7 +65,7 @@ function About() {
               play out in imperfect-information games.
             </p>
             <p>
-              I'm particularly interested in how RL and LLMs intersect, whether
+              I'm particularly interested in how RL, ML and LLMs intersect, whether
               it's RLHF for aligning language models, reward modeling for safer AI,
               or using RL to optimize real-world decision systems like
               recommendation engines, autonomous agents, and adaptive data pipelines.
