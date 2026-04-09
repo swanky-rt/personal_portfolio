@@ -25,19 +25,22 @@ I focus on building AI that is reliable, secured, grounded, and actually useful 
               software engineering. Over 7 years at <strong>PayPal</strong>,{" "}
               <strong>Altimetrik</strong>, and <strong>Dell EMC</strong>, I designed
               and shipped high-throughput payment pipelines serving 436M+ users,
-              built ML-integrated risk systems with 96% accuracy, and engineered
+              built backend and ML-integrated risk systems with 96% accuracy, and engineered
               infrastructure automation that cut provisioning time by 92%.
             </p>
             <p>
-              That hands-on experience with distributed systems, concurrency, and
-              production reliability is what I now bring to the AI space. I understand
-              what it takes to move a model from research notebook to production service,
-              and I care deeply about building AI systems that are not just accurate but
-              also robust, scalable, and safe.
+              My hands on experience building distributed systems, applying concurrency, 
+              fault tolerance, and production deployment at scale, directly translates 
+              to building reliable AI applications. I know what it takes to engineer 
+              systems that handle real world load, edge cases, and failure gracefully. 
+              Having developed and shipped backend services across payment and storage domains, 
+              I understand the full lifecycle from data infrastructure and model integration 
+              to API design, monitoring, and production reliability. That same engineering rigor 
+              is what I now bring to AI: designing and implementing pipelines that are accurate,robust, scalable, and safe for real users.
             </p>
             <p>
               Currently pursuing my <strong>M.S. in Computer Science at UMass
-              Amherst (GPA 3.95)</strong>, I'm focused on Machine Learning,
+              Amherst (GPA 3.95)</strong>, I'm focused on Machine Learning, AI, 
               Reinforcement Learning, LLMs, and Responsible AI. This summer, I join{" "}
               <strong>Dell Technologies as a Graduate AI Intern</strong>, working on
               next-generation AI-powered products.
@@ -64,8 +67,8 @@ I focus on building AI that is reliable, secured, grounded, and actually useful 
               play out in imperfect-information games.
             </p>
             <p>
-              I'm particularly interested in how RL, ML and LLMs intersect, whether
-              it's RLHF for aligning language models, reward modeling for safer AI,
+              I am particularly interested in how RL, ML and LLMs intersect, whether
+              it is RLHF for aligning language models, reward modeling for safer AI,
               or using RL to optimize real-world decision systems like
               recommendation engines, autonomous agents, and adaptive data pipelines.
             </p>
