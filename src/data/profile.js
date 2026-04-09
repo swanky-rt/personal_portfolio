@@ -141,6 +141,13 @@ export const profile = {
       tech: ["Python", "LLMs", "Privacy", "Federated Learning"],
       summary:
         "Led multiple submodules of an industry-sponsored project for responsible, privacy-preserving job interview preparation: synthetic dataset generation, membership inference attacks, DP-SGD vs baseline comparisons, federated learning, and misalignment/backdoor analyses."
+    },
+    {
+      name: "AirGapLite — Hybrid Lightweight Data Minimizer for Privacy-Preserving LLM Agents",
+      link: "https://github.com/swanky-rt/Student-Navigator/tree/main/final_project",
+      tech: ["Python", "Reinforcement Learning", "GRPO", "MiniLM", "spaCy", "NLP", "Responsible AI"],
+      summary:
+        "Built a Reinforcement Learning-based PII minimizer as part of CS690F: Trustworthy & Responsible AI at UMass Amherst. Replaced slow, generic LLM-based privacy filtering with a domain-specific RL pipeline (GRPO, GroupedPPO, VanillaRL) combined with a MiniLM + MLP classifier and a spaCy + Regex NER module — achieving F1 ≥ 0.996, 100% recall across all 11 PII types, and an 11–14× inference speedup over baseline LLM agents while maintaining near-perfect privacy and utility scores. Inspired by and extending the threat model introduced in AirGapAgent (Bagdasarian et al., CCS'24)."
     }
   ],
   research: [
