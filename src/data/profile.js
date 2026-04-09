@@ -3,7 +3,7 @@ export const profile = {
   tagline: "Ex-PayPal Software Engineer 2 · MS CS @ UMass Amherst · Incoming AI Intern @ Dell",
   location: "Amherst, MA · USA",
   summary:
-    "I am a Master's student in Computer Science at UMass Amherst (GPA 3.95, expected Dec 2026) with 7+ years of experience as a software developer at PayPal, Altimetrik, and Dell EMC. I build reliable backend and data systems and am now focused on applying machine learning, LLMs, and responsible AI to real-world products.",
+    "I am a Master's student in Computer Science at UMass Amherst (GPA 3.95, Expected Graduation: Dec 2026) with 7+ years of experience as a software developer at PayPal, Altimetrik, and Dell EMC. I build reliable backend and data systems and am now focused on applying machine learning, LLMs, and responsible AI to real-world products.",
   links: {
     email: "aarti16995@gmail.com",
     phone: "+1 (551) 358 4431",
@@ -162,7 +162,7 @@ export const profile = {
       title: "Open-Ended DPR Generation in the Wild",
       role: "AI Research Extern - IBM, 698DS UMass Industry Mentorship Program",
       period: "January 2026 - Present",
-      link: null,
+      link: "https://github.com/dhdhagar/dpr-discovery",
       description:
         "Designed multi-stage pipeline: clustering-based table discovery, LLM-driven DPR synthesis, SQL grounding with execution feedback, and metric-based evaluation (coverage, diversity, complexity, surprisal) over large heterogeneous data lakes. Strengthened SQL reliability via execution-aware self-correction and hallucination mitigation across 500+ table scale experiments.",
       topics: [
