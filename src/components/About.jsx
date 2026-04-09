@@ -9,9 +9,8 @@ function About() {
           <p className="section-kicker">About</p>
           <h2 className="section-title">Who I am</h2>
           <p className="section-subtitle">
-            Hi, I am Aarti Kumari, currently pursuing my Masters in Computer Science( Major in Data Science) at UMass Amherst, graduating in December 2026.
-I build AI systems that work in production: LLM pipelines, retrieval architectures, and scalable backend infrastructure. With 7+ years of software engineering experience at PayPal, Dell EMC, and Altimetrik, my work sits at the intersection of applied ML, LLM systems, and solid backend engineering( APIs, databases, deployment).
-I care about building AI that is reliable, secured, grounded, and actually useful that remains reliable under real-world abuse, edge cases...
+            I started my career as a Software Engineer at Dell EMC, taking end-to-end ownership of storage domain products, and progressively moved into more complex engineering challenges at Altimetrik and PayPal. After seven years in industry, I made a deliberate choice to pursue graduate studies - to deepen my expertise and transition into AI/ML engineering and data science.
+I focus on building AI that is reliable, secured, grounded, and actually useful that remains reliable under real-world abuse, edge cases.
           </p>
         </div>
 
