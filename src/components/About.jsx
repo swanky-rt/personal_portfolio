@@ -40,7 +40,7 @@ I focus on building AI that is reliable, secured, grounded, and actually useful 
             </p>
             <p>
               Currently pursuing my <strong>M.S. in Computer Science at UMass
-              Amherst (GPA 3.95)</strong>, I'm focused on Machine Learning, AI, 
+              Amherst (GPA 3.95)</strong>, I am focused on Machine Learning, AI, 
               Reinforcement Learning, LLMs, and Responsible AI. This summer, I join{" "}
               <strong>Dell Technologies as a Graduate AI Intern</strong>, working on
               next-generation AI-powered products.
@@ -59,7 +59,7 @@ I focus on building AI that is reliable, secured, grounded, and actually useful 
               planning, and learning, and I find that deeply compelling.
             </p>
             <p>
-              At UMass, I've studied RL extensively, from foundational algorithms
+              At UMass, I have studied RL extensively, from foundational algorithms
               like Q-learning and policy gradients to game-theoretic settings and
               multi-agent environments. For my AI course, I built and benchmarked
               multiple AI poker agents, including a Minimax + Alpha-Beta agent with
@@ -115,10 +115,10 @@ I focus on building AI that is reliable, secured, grounded, and actually useful 
             <p>
               Beyond tech, I serve as the <strong>CS Senator</strong> in UMass
               Amherst's Graduate Student Government, where I successfully passed a
-              bill expanding TA/RA opportunities. I'm the first woman in my family
-              to pursue a master's degree, and I'm passionate about making CS more
-              accessible through mentoring and community building. Outside work, you'll
-              find me dancing, playing badminton, or swapping notes on ML papers.
+              bill expanding TA/RA opportunities. I am the first woman in my family
+              to pursue a master's degree, and I am passionate about making CS more
+              accessible through mentoring and community building. Outside work, you will
+              find me dancing, playing badminton, or discussing ideas using ML and AI.
             </p>
           </div>
         </div>
